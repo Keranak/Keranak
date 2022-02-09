@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keranak
 - 👀 I’m interested in motosport statistic
-- 🌱 I’m currently learning HTML CSS JS
+- 🌱 I’m currently learning react.js node.js PHP
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me kerrianlebras@gmail.com
 
